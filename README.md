@@ -17,6 +17,10 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+#### Who uses the OSS products? Who are the end users?
+#### Is it necessary for this software to be open-sourced?
+#### Are there any benefits on making this project as an OSS type?
+#### What else is required?
 
 ## License
 
